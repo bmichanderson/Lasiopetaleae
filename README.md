@@ -11,3 +11,5 @@ Note that uploading data to ENA removes Illumina information from read headers, 
 
 The full analysis steps and notes can be followed in the `Lasio_analyses.md` file  
 Many steps are specific to the NCI Gadi supercomputer environment  
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15591440.svg)](https://doi.org/10.5281/zenodo.15591440)  
